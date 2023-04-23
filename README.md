@@ -1,9 +1,9 @@
-<h1>Hello, I'm Kyree, an <a href="https://www.linkedin.com/in/kyree-coleman">IT Professional</a></h1>
+<h1>Hello, I'm Kyree, an <a href="https://www.linkedin.com/in/kyree-coleman-844821272/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kKyree30/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Kyree30/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Kyree30/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Kyree30/ticket-lifecycle)
 - <b>Microsoft Azure</b>
